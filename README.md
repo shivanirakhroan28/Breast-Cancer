@@ -1,1 +1,2 @@
-# Breast-Cancer
+This project involves analyzing a breast cancer dataset to predict the malignancy of tumors using various machine learning models.The target variable is binary, where 0 indicates a Malignant tumor and 1 indicates a Benign tumor. Given that malignant tumors are more dangerous in breast cancer, accurate prediction is critical.The model outputs included the predicted class (Output) and the actual class (Actual_value), allowing for a detailed comparison.
+
